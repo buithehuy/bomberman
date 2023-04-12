@@ -1,0 +1,3259 @@
+fileFormatVersion: 2
+guid: b5d1970f4233b634ea4840407030cebc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 265
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35353cf91f0e47941a422d31ed332d3c
+      internalID: 1446652989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 265
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1deeb7fd73b1d429cfe16ddb362314
+      internalID: 1876551550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 265
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ac39a8c8a13294180822f9a52353bd
+      internalID: -1749821719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 265
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a5b68ce79dbaa42a4dd4a5a038ce37
+      internalID: 1515676395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 264
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff71d41cd5c667940a0f650ae3eb18db
+      internalID: 171158592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 264
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c331a387e3ae3744f9d18a56d98c8846
+      internalID: -2125038068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 264
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171558f37701d9246aa6fd3e239de00f
+      internalID: 744269350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 265
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2945dfce26dd684f9c17f86b535a0a5
+      internalID: -1961658609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 265
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc548fb520786f48836eacb422cfb49
+      internalID: 284547053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 238
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735fc9952e46c244080d37d7ebe828e4
+      internalID: 1957247407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 240
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ada5e36b2b9574dba11c5859e073a0
+      internalID: -429975300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 239
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4311105643de845b4e97850e1a7e41
+      internalID: -1385636363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 239
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb0854def5c1584e8c836fd1fe427b2
+      internalID: 537291231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b3dc51fb3ec7149a3c0bb38e34fee3
+      internalID: -1896395051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 238
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357d9b73ce0c28645bcd0be70fdd1932
+      internalID: 51558994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 242
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0de49930e17a848a8e92c8a3b445fa
+      internalID: 403122472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 253
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcae62de19bc5f499e143665b476571
+      internalID: -1227091331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 253
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f6ddcf2f2c4ea45ad15a6a9cec5803
+      internalID: -385093407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 242
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f12f5043decfaa4b93fc2890c827725
+      internalID: -501806128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 237
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2e9667b0c6f0f44909786c3ac4c63a
+      internalID: 1706384258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 239
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c1189e36dd6343b08862ff5d59b32
+      internalID: 144551747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 214
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e33d195b4f1b4696c7cc1757f07a2
+      internalID: 1745867200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 214
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e703cfd84ca4e074e9cd81ac662aef25
+      internalID: 1425598514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 214
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e199cda54c3884abbeb23bbc3a3b02
+      internalID: -960627329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 214
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1279f7c44c319c4ea4ca16a0ad350bf
+      internalID: 1042603883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 214
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08636035dc37fb429bd8dff3d6450c4
+      internalID: -1300615128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 214
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c867cb83563f24187ee1c61c979ab0
+      internalID: 815930679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 214
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b86aa7b9fff1a48ae016db9a11e0cb
+      internalID: 1227305888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 214
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2323b2015b582c84ba95bfecb1feff32
+      internalID: -1124851677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b0693d430b86f40a611f12a5845e5f
+      internalID: 1161444187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 193
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcd0992129a3904ebb2d0ea446f4adc
+      internalID: -257062894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 194
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1cc8456b4881c409c59d77a1450930
+      internalID: 364053082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeea49472be7474296a07e411fe9a49
+      internalID: -1053964361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27d094c872382f4bac98c3c5fe78d34
+      internalID: 1679415724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce6af69ff073834f9d3ab07ce00c881
+      internalID: -1719726456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 192
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4210e271f12bfc499d91491306a3031
+      internalID: 715430931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bc68440d8b7144cb1e036e8c497863
+      internalID: 106317724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2a3dd1da4a77d4ebc3bf44eb5e6c3a
+      internalID: -230351934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d95bf823c24d494bb14dfe403de3706
+      internalID: 51952068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e45fac86fed24408404f728b97d965
+      internalID: -1695714097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b48bef0e61f9334c95fc3796841e312
+      internalID: -965856940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8285fe8eadec703479c8e8309837f627
+      internalID: 2105935888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f7c89cee18ee744aa466452ae24db0
+      internalID: -1314447445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ee92c94a8a25a48a0526c4a2dcf125
+      internalID: 489997706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d1431c7f511b1498c6d07b8bc80074
+      internalID: -314863343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f601b4b53f9956d449eec84672691c5e
+      internalID: 1353070867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522290c476778b4bad35be99112be4a
+      internalID: 407086661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 156
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dec99130d97664893aa0d87af85e97
+      internalID: 278685068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 156
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c9b4fa90a28fc44917cf1ad8b7747f
+      internalID: -640514089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3fb303b12198a4ca911018baa997cd
+      internalID: 310536522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4368e634cb8f71e4aa63a4f6fe28accb
+      internalID: -1206287995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c179da7ae7f366a438149484b57b4706
+      internalID: -1720604530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f77dd21b83edb74e8a8be27d781dc15
+      internalID: 1939865524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87903cd347e8ab84cbb084cdaa1588e3
+      internalID: -2109166230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0430ad912448c345a3f28d28506d473
+      internalID: -671229941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a6898f46f1cd1449d4f943a507ae28
+      internalID: 838795638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba064424c3d87f742ab4f1172b0e27be
+      internalID: 1589026019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def6ae1b9761db74d82a036709828762
+      internalID: 459739017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 138
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedac5ed6baff7d40be284499cb1e906
+      internalID: 1332710147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f21131df984f64d8aa50258878e04e
+      internalID: -2095297263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 138
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7418de31f18172f4da834fc610f26f55
+      internalID: 72790340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b5e9776ce95764a8e49275724944b1
+      internalID: -580665699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ada807f333a774aa225d56dbcb192c
+      internalID: -1692214830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13426838f78f7643a422278fe9544a0
+      internalID: -1376621545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8b966d10c638c47a1e7e90e49d53c5
+      internalID: -633054285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e908757adc6a348a798f498bfdce2c
+      internalID: -203553600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 120
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7901bed58dd6344882375afb07aadb
+      internalID: -1794493880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 120
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85121ef5dd0b39041af5fe4cf4d22ac8
+      internalID: 923065103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd806769c4cede42bba8964825ed037
+      internalID: -1013764897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 120
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3091b696428daf94fb2f9d21de54a805
+      internalID: -410535851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1633845690ce74eb894481ecee61b6
+      internalID: -875020812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b3b4ffbf3a88c4588d64e7d8b06259
+      internalID: 2027319364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0b0117d3f04064985b093f722dd713
+      internalID: 915820062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adf5e5f80bba31478013dccdead3ab6
+      internalID: 1231568217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a04ce12ebe772e499af4b5795eefd4c
+      internalID: 1408167509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb189d5ec4c9a24da99441ab427f063
+      internalID: -2113776908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4002b6c2eb4e847b5f2b07bda62025
+      internalID: 1829330422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 102
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1121035920588b4ca2152b299df8242
+      internalID: -812956779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 102
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0150dfe0c3e58418de9f9c1f6bad22
+      internalID: 1874893203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141cbdd7d6d458b42a24ce60f2107884
+      internalID: 1777964725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0360d0640f4300d448caeaecb47e2727
+      internalID: 2092219263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00563d63b607cbc469569f2caa3405e6
+      internalID: -128322289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 85
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc4521ad6d3c1a49a59d007bccd2a15
+      internalID: 1116934510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 85
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6458ff5c3f48bc848945bae3fd8583a8
+      internalID: 878716434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 85
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc686ff64c052c84f8eec864b321a3aa
+      internalID: -1208787344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284c33c80dc297e4a94162d566d82ca7
+      internalID: -1149752802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8d212e977e68b4ba627a3c320cf109
+      internalID: -1186104338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c76fddab81f4894483c3a27348dc37e
+      internalID: -2029043512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5e31b72107add48a21f91c0ed8d16f
+      internalID: -1492711372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 66
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212b2748dbd3f2459ade46995d1a094
+      internalID: -781932979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce368aa1b1e2f034da5838b497a240ff
+      internalID: 119040999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5245bf6f67b1824c99624bc62c85e37
+      internalID: 311623507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ba2ce31088164c82d7b2913a8514e
+      internalID: 923010655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2594b2845fa2064cb7ba83052edc620
+      internalID: 703422591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b633ea4b98579d646a05f0f52cdfef59
+      internalID: -1108704214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3794589ef7b9706499ae39bd6372210d
+      internalID: 471721963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890d302330ca0544397491cec971df14
+      internalID: -63086112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2d21384e7865947990ab5107b3cca1
+      internalID: -1034604328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 48
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92ad224678c8f40815561d27c0fd8b
+      internalID: -1950311598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 48
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c03405e40f6d3438c6255f0d5e082d
+      internalID: -194539760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 48
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031537f1cb830614192f05169db2ea5c
+      internalID: 1455602992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ec9e865725e544b8af1fdabab983f8
+      internalID: -1866534864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ad1f5da64c6484fa430601172fe0c1
+      internalID: 150095106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3c251f100d1524e830251848d18277
+      internalID: 1173117815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827862039a5c9c747924ad6f2f6f7b94
+      internalID: -1058643456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9ebc4f6b2f1dc4d879ff9809e312b0
+      internalID: -2050807380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e4bff36715a0740a901cc4f3656b24
+      internalID: -627364308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9e2a9c0355f0244932e4c1ea35d9a9
+      internalID: 336546737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e35e12122613841b0cdfac9e2c2258
+      internalID: -103333036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb14c84a8009a4c8ed2074f9d36d4b
+      internalID: -1228418389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283cd8ec4a42af84f9adf421c2109a12
+      internalID: 2037171657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7213a58c1255c9244b607a76ee8adf66
+      internalID: -2145423616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f30ca88491baf04fae1eafab620933c
+      internalID: 548816958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec563a9fc62c464990efd55f321add6
+      internalID: 1640208892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a20ecb373d52a48aec5f6cc6a90c77
+      internalID: 725284162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a35e953668ab2458227f7bd66a3e2a
+      internalID: 2046473216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dddec270cd9dfe4fb03217dbcf7c32a
+      internalID: 1038559387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99c4f66e78d29a4faebbbc8660b3ea5
+      internalID: 1452827644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa2a3dbf32707c46a7454130d1ccea8
+      internalID: 1014913106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fe580b233a6944482206aad5540b47
+      internalID: -208905993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6f41b8947df8b459466471c9d9d59a
+      internalID: -1954348766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 21
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f73534b0e0f4b47a3351c207f26e10
+      internalID: -950669426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 16
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa33635a5ddf9f45a3bfd72abb64faf
+      internalID: -1711189610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf343d396836644c9c9abe51cf7981c
+      internalID: 446437447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fb1ca56cc24ce4ab2f7d9df924001b
+      internalID: -88383654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da45e4ba9d806ef44937be888e902114
+      internalID: -1336538596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99ee1e143621054c9f87a2849192677
+      internalID: 1974542730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593d6409ebc606342ab8d00bcd2183d2
+      internalID: 1673676689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7148e0012e4c934799a63db9218bae9
+      internalID: 2060857929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6385bbbfc4fe24b9235a7153cd67dd
+      internalID: 1554565038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9965106c52c22da49b4aeecddb7c1c68
+      internalID: -170770760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df33bb29c4f70469942d2dcddcc228
+      internalID: 397628267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e832e651d31ba47807eb2218dc9627
+      internalID: -188241871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61a58f76a92506439c3f997f1170bf1
+      internalID: -544079342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38fdd6e115b0bb468b9b5bd726883c5
+      internalID: -1848026633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c60a8a2795f9d54a9228d09052503c5
+      internalID: -1090395513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2e623612fdfa04e8e811b3eadbe4dd
+      internalID: -1924392786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b108ec5d9c55e14badc6eaa2c0a4d84
+      internalID: 1485674292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528f419ff18b3374ab8f02106f72ee5d
+      internalID: 291640026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d78db053512b54682ba76548d2db44
+      internalID: -488451723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5272b6ee96f79174e8c306809b43e0ee
+      internalID: -1363825897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Bomberman II Dynablaster - Bomberman & Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd33f8942af20274093eba3269db2c55
+      internalID: 1832131832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_0: 1446652989
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_1: 1876551550
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_10: -429975300
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_100: 1455602992
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_101: -1866534864
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_102: 150095106
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_103: 1173117815
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_104: -1058643456
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_105: -2050807380
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_106: -627364308
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_107: 336546737
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_108: -103333036
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_109: -1228418389
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_11: -1385636363
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_110: 2037171657
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_111: -2145423616
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_112: 548816958
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_113: 1640208892
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_114: 725284162
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_115: 2046473216
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_116: 1038559387
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_117: 1452827644
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_118: 1014913106
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_119: -208905993
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_12: 537291231
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_120: -1954348766
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_121: -950669426
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_122: -1711189610
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_123: 446437447
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_124: -88383654
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_125: -1336538596
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_126: 1974542730
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_127: 1673676689
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_128: 2060857929
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_129: 1554565038
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_13: -1896395051
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_130: -170770760
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_131: 397628267
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_132: -188241871
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_133: -544079342
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_134: -1848026633
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_135: -1090395513
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_136: -1924392786
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_137: 1485674292
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_138: 291640026
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_139: -488451723
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_14: 51558994
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_140: -1363825897
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_141: 1832131832
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_15: 403122472
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_16: -1227091331
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_17: -385093407
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_18: -501806128
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_19: 1706384258
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_2: -1749821719
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_20: 144551747
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_21: 1745867200
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_22: 1425598514
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_23: -960627329
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_24: 1042603883
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_25: -1300615128
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_26: 815930679
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_27: 1227305888
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_28: -1124851677
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_29: 1161444187
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_3: 1515676395
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_30: -257062894
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_31: 364053082
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_32: -1053964361
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_33: 1679415724
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_34: -1719726456
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_35: 715430931
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_36: 106317724
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_37: -230351934
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_38: 51952068
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_39: -1695714097
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_4: 171158592
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_40: -965856940
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_41: 2105935888
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_42: -1314447445
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_43: 489997706
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_44: -314863343
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_45: 1353070867
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_46: 407086661
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_47: 278685068
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_48: -640514089
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_49: 310536522
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_5: -2125038068
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_50: -1206287995
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_51: -1720604530
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_52: 1939865524
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_53: -2109166230
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_54: -671229941
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_55: 838795638
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_56: 1589026019
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_57: 459739017
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_58: 1332710147
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_59: -2095297263
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_6: 744269350
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_60: 72790340
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_61: -580665699
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_62: -1692214830
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_63: -1376621545
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_64: -633054285
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_65: -203553600
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_66: -1794493880
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_67: 923065103
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_68: -1013764897
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_69: -410535851
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_7: -1961658609
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_70: -875020812
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_71: 2027319364
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_72: 915820062
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_73: 1231568217
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_74: 1408167509
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_75: -2113776908
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_76: 1829330422
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_77: -812956779
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_78: 1874893203
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_79: 1777964725
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_8: 284547053
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_80: 2092219263
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_81: -128322289
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_82: 1116934510
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_83: 878716434
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_84: -1208787344
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_85: -1149752802
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_86: -1186104338
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_87: -2029043512
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_88: -1492711372
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_89: -781932979
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_9: 1957247407
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_90: 119040999
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_91: 311623507
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_92: 923010655
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_93: 703422591
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_94: -1108704214
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_95: 471721963
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_96: -63086112
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_97: -1034604328
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_98: -1950311598
+      NES - Bomberman II Dynablaster - Bomberman & Enemies_99: -194539760
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
